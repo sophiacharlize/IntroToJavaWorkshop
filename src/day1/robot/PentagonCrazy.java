@@ -11,7 +11,7 @@ public class PentagonCrazy {
 	private void makePrettyThings() {
 		
 		// 1. Create a new Robot
-		Robot jenieva = new Robot ("batman");
+		Robot jenieva = new Robot ("mini");
 		
 		// 7. Do steps #2 to #11, 200 times. When this is done you should see a pentagon.
 		
